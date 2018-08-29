@@ -54,3 +54,6 @@
     lineCap: 'round', // 圆弧尾部样式 ['butt'|'round'|'square']  https://developer.mozilla.org/zh-CN/docs/Web/API/CanvasRenderingContext2D/lineCap
 }
 ```
+## DEMO
+<p data-height="265" data-theme-id="0" data-slug-hash="bxVvre" data-default-tab="js,result" data-user="jiangwenyang" data-pen-title="dashboard" class="codepen">See the Pen <a href="https://codepen.io/jiangwenyang/pen/bxVvre/">dashboard</a> by 蒋文杨 (<a href="https://codepen.io/jiangwenyang">@jiangwenyang</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
